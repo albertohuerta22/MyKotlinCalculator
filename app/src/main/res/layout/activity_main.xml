@@ -225,7 +225,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="@string/equal"
-            android:onClick="onDigit"
+            android:onClick="onEqual"
             android:layout_margin="2dp"
             tools:ignore="NestedWeights,UsingOnClickInXml" />
 
